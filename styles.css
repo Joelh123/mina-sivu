@@ -1,5 +1,9 @@
-<CHARSET="UTF-8">
+@CHARSET "UFT-8"
 
-h1, p {
-  font-style: comic sans;
+h1 {
+  text-align: center;
+}
+
+h2, p {
+  font-family: Courier New;
 }
