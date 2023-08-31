@@ -1,9 +1,22 @@
-@CHARSET "UFT-8"
+.paska {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-.otsikko {
+h1 {
+  font-family: Courier New;
   text-align: center;
 }
 
 h2, p {
   font-family: Courier New;
+}
+
+.pillu {
+  width: 40%;
+}
+
+.container {
+  display: flex;
 }
