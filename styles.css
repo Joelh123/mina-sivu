@@ -1,3 +1,16 @@
+body {
+  background-image: url(https://c02.purpledshub.com/uploads/sites/41/2021/08/mountains-7ddde89.jpg);
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
+
+div {
+  background-color: aliceblue;
+  padding: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 .kuva {
   display: flex;
   justify-content: center;
@@ -7,10 +20,13 @@
 h1 {
   font-family: Courier New;
   text-align: center;
+  font-size: 50px;
+  color: rgb(0, 90, 250);
 }
 
 h2, p {
   font-family: Courier New;
+  color: rgb(0, 90, 250);
 }
 
 .asettelu {
